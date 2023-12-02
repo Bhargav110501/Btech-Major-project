@@ -1,4 +1,4 @@
-# Btech-Major-project
+# FPGA Implementation Of Automatic Traffic Control and Energy Saving Street Light System
 
 **Sir C R Reddy College of Engineering, Eluru**
 Associated with : Sir C R Reddy College of Engineering, Eluru
